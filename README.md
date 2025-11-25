@@ -38,14 +38,6 @@ It consists of two parts :
   <img src="http://i.imgur.com/XVXCHV9.png" width="600"/>
 </p>
 
-
-## Video Tutorial
-<p align="center">
-<a href="https://www.youtube.com/watch?v=DDIZTABABzs">
-  <img src="https://img.youtube.com/vi/DDIZTABABzs/0.jpg" width="600"/>
-</a></p>
-
-
 ---------------------------------------------------------------
 ##### I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only.
 ###### Twitter : <a href="https://twitter.com/AhMythDev"> @AhMythDev </a>
